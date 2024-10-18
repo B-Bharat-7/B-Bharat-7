@@ -12,7 +12,7 @@
  <img align='right' src="https://raw.githubusercontent.com/B-Bharat-7/B-Bharat-7/main/assets/clipart2415480.png" width="250"/>
 
  
-- I'm Software developer from  <b>India</b> &nbsp;<img src="https://raw.githubusercontent.com/B-Bharat-7/B-Bharat-7/main/assets/india-flag-icon%20(1).png" width="22"/>
+- I'm Software developer from  <b>India</b> &nbsp;<img src="https://raw.githubusercontent.com/B-Bharat-7/B-Bharat-7/main/assets/india-flag-icon.png" width="22"/>
 
 - I do <b>Backend</b> ⌨️ and know a little bit of everything 🌠.
 
