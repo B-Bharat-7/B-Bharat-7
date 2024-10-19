@@ -61,7 +61,7 @@
     
 
  
-## 🧡 My Passions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart" width="38" height="38" /> My Passions
 
 
 🔸 🖥️ Software Dev 🖲🛰<br>
