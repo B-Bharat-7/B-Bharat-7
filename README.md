@@ -88,7 +88,7 @@
 </div>
 <br>
 
-<h1 align='center'>🎆<i>Thanks for visiting!!</i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="38" height="38" /></h1>
+<h1 align='center'>🎆<i>Thanks for visiting!!</i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="45" height="45" /></h1>
 
 
 
