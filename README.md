@@ -88,7 +88,7 @@
 </div>
 <br>
 
-<h1 align='center'>🎆<i>Thanks for visiting!!</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="48" height="48" /></h1>
+<h1 align='center'><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Fireworks.webp" alt="Fireworks" width="48" height="48" /> <i>Thanks for visiting!!</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="48" height="48" /></h1>
 
 
 
