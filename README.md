@@ -75,7 +75,7 @@
 
  
 
-<h2>📱 How to reach me 📬</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> How to reach me 📬</h2>
 
 
  <div>
