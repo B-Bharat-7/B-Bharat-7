@@ -27,7 +27,7 @@
 
 <br>
 
-<h2>🏰<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Castle.png" alt="Castle" width="38" height="38" /> Things I code with 🎨</h2>
+<h2>🏰<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Castle.png" alt="Castle" width="38" height="38" /> Things I code with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="38" height="38" /></h2>
 
 
 
