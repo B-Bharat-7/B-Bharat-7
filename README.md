@@ -64,7 +64,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Red%20Heart.webp" alt="Red Heart" width="38" height="38" /> My Passions
 
 
-🔸 🖥️ Software Dev 🖲🛰<br>
+🔸 🖥️<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="38" height="38" /> Software Dev <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trackball.png" alt="Trackball" width="38" height="38" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" alt="Satellite" width="38" height="38" /><br>
 🔹 ⚔️ Anime 🥷☄️<br>
 🔸 ♜ Chess ♟️👑<br>
 🔹 🎸 Guitar 🎶<br>
