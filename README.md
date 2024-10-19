@@ -88,7 +88,7 @@
 </div>
 <br>
 
-<h1 align='center'>🎆<i>It was great having you here!!</i>🎉</h1>
+<h1 align='center'>🎆<i>Thanks for visiting!!</i>🎉</h1>
 
 
 
